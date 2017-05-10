@@ -1,0 +1,2 @@
+# E-Learning-Management-System
+It's a web application for e-Learning. It has three type of user such as Admin, Teacher and Student dashboard and lot's of collaboration in between all those account type. It's done by advanced PHP, MySQL, HTML5, CSS, Bootstrap, Javascript, JQuery, Ajax. It will help those, who are learning how to crate a e-Learning web portal and can update features those have already e-learning portal exist.
